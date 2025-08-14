@@ -28,7 +28,7 @@ The analysis focuses on:
 
 ## 📈 Project Workflow
 
-- Data Extraction (E) – Gathered raw P&L data for multiple fiscal years, markets, and customers.
+- Data Extraction (E) – Imported raw P&L datasets from CSV files into Excel for analysis.
 
 - Data Transformation (T) – Used Excel Power Query to clean, merge, and reformat datasets; calculated key KPIs (Net Sales, COGS, Gross Margin, GM%).
 
