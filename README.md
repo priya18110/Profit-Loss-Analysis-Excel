@@ -16,7 +16,7 @@ The analysis focuses on:
 
 ## 📂 Files in This Repository
 
-- P & L by Fiscal Year.pdf – Yearly P&L report with percentage growth analysis.[!fiscal](P & L by Fiscal Year.pdf)
+- P & L by Fiscal Year.pdf – Yearly P&L report with percentage growth analysis.[!fiscal](P&LbyFiscalYear.pdf)
 
 - P & L by Month.pdf – Monthly breakdown of sales, costs, margin, Gross margin%.
 
