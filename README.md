@@ -44,9 +44,7 @@ The analysis focuses on:
 
 Microsoft Excel (ETL, pivot tables, Utilizing DAX to create calculated columns, Power Query)
 
-Financial Analysis – (Profit & Loss interpretation, KPI calculations.
-
-Business Insights – Identifying trends and performance gaps
+Financial Analysis (Profit & Loss interpretation, KPI calculations)
 
 ## 🔍 Key Insights
 
